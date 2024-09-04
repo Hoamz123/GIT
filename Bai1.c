@@ -83,5 +83,6 @@ int main(){
             rutGon(T, M);
         }
     }
+    //hoamz
     return 0;
 }
